@@ -25,8 +25,8 @@
 
 ***
 
-[**Unity**] (https://github.com/YoonJun47/unity)
+[**Unity**](https://github.com/YoonJun47/unity)
 유니티는 3D 및 2D 비디오 게임의 개발 환경을 제공하는 게임 엔진이자, 3D 애니메이션과 건축 시각화, 가상현실 등 인터랙티브 콘텐츠 제작을 위한 통합 저작 도구이다. 최근 유명 모바일게임이 UNITY 환경으로 많이 개발된다고 하여 fork하였습니다.
 
-[**2D,3D GAME**] (https://github.com/YoonJun47/GamePlay)
+[**2D,3D GAME**](https://github.com/YoonJun47/GamePlay)
 C++로 만든 언어로 만든 2D, 3D 게임을 기획을 했었는데, 실패를 해서 고민을 했었는데, 완성된 툴과 게임의 예가 있어서 FORK를 하였습니다.
