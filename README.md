@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## 소개합니다!
 
-You can use the [editor on GitHub](https://github.com/YoonJun47/YoonJun47/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* 이름 : 윤준
+* 학번 : 2017104131
+* 학과 : 컴퓨터교육과
+* 학력 : 서귀포중학교 졸업 - 서귀포고등학교 졸업 - 제주대학교 컴퓨터교육과 2학년 재학중
+* GitHub page : YunJoon(click)
+* 좋아하는 것 : 농구, LoL
+* 싫어하는 것 : 공부
+* 다룰 수 있는 언어 : C언어, JAVA, C++
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**
 
-### Markdown
+나에게 프로그래밍이란?
+프로그래머는 모든 코드를 내가 원하는 대로 할 수 있기 때문에 자기 만족 할 수 있는 수단으로 느껴진다. 때로는 친구가 나보다 코드를 잘 작성을 하는 것을 보면 질투 같은 감정이 느껴지고 때로는 한국어보다 더욱 생각을 하게 하는 언어이다. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YoonJun47/YoonJun47/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+프로그래밍을 접하게 된 계기
+제가 프로그래밍이라는 세계에 발을 들여놓게 된 계기는 중학교 때 워크래프트3라는 게임을 좋아해서 맵 에디터를 이용해 유즈맵들을 만들고, 그것에 재미를 느끼게 되었고,  그러다 우연히 단간론파라는 게임과 클라나드라는 게임을 접하게 되었습니다. 게임에 대해 간단히 말하자면,  단간론파는 주 컨텐츠가 추리이고, 그 과정에 탐색/액션 장르가 섞여있는 게임입니다. 클라나드는 고전 비주얼 노벨 게임입니다.  위 두게임을 접했던 것이 프로그래밍 공부의 직접적인 계기 였습니다. 나도 이런 게임을 만들어서 해볼 순 없을까? 란생각을 하게 되었습니다. 고등학교에 진학을 해서는 C언어를 사용하여 부루마블을 제작하는 등 여러 게임을 제작하면서 프로그래밍 언어 영역을 넓혀 나갔고, 고3때 컴퓨터교육과의 진학을 결정하여 지금 재학중입니다.
+**
